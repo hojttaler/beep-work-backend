@@ -1,0 +1,10 @@
+# MacOS
+**/.DS_Store
+
+# IDE
+.idea
+.fleet
+.vscode
+
+# Environment variables
+.env
